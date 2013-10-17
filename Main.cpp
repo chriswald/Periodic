@@ -123,19 +123,10 @@ int main()
         {
             if (element[j].over())
             {
-                if (on_element==j){}
-
                 if (on_element!=j)
                 {
                     draw_sprite(screen,screen_buff,0,0);
-
-                    /*int source_w=element[j].x2-element[j].x1+3;
-                    int source_h=element[j].y2-element[j].y1+3;*/
-
                     draw_sprite(screen,circle,element[j].x1-1,element[j].y1-1);
-                    /*stretch_blit(periodic,screen,element[j].x1-2,element[j].y1-2,
-                                 source_w,source_h,element[j].x1-5,element[j].y1-5,
-                                 source_w+6,source_h+6);*/
                     if (showing_pictures==false)
                         draw_sprite(screen,element[j].bmp,0,485);
 
@@ -155,13 +146,6 @@ int main()
                     play_sample(click,50,PANNING,PITCH,false);
                     can_play[j]=false;
                 }
-
-                /*if ((LB && showing_pictures==false) || showing_pictures==true)
-                {
-                    draw_sprite(screen,draw_pictures(j),0,485);
-                    showing_pictures=true;
-                    while (LB){}
-                }*/
             }
             else if (over_element()==false)
             {
@@ -171,13 +155,6 @@ int main()
                 for (int i=0; i<111; i++)
                     can_play[i]=true;
             }
-
-            /*if (LB && showing_pictures==true)
-            {
-                showing_pictures=false;
-                on_element=-1;
-                while (LB){rest(1);}
-            }*/
         }
 
         //Unlock the thread;
@@ -190,7 +167,6 @@ int main()
     //time to end and delete it
     done=true;
     pthread_mutex_destroy(&threadsafe);
-
 
     destroy_bitmap(periodic);
     destroy_bitmap(tray);
@@ -213,38 +189,3 @@ int main()
 }
 
 END_OF_MAIN()
-
-
-/*BITMAP *draw_pictures(int num)
-{
-    BITMAP *bmp=create_bitmap(635,110);
-    clear_bitmap(bmp);
-    rectfill(bmp,0,0,635,110,GREY);
-
-    int posx=5;//(635/10);
-    int incr=(635/5);
-
-    for (int i=num-2; i<=num+2; i++)
-    {
-        if (i>=0)
-        {
-            string file_name="bitmaps/Elements/";
-            file_name+=element[i].name;
-            file_name+=".bmp";
-
-            BITMAP *print=load_bitmap_ex((char *) file_name.c_str(),NULL);
-
-            if (i==num)
-            {
-                rectfill(bmp,posx-2,0,posx+112,110,BLACK);
-            }
-
-            stretch_blit(print,bmp,0,0,print->w,print->h,posx,0,110,110);
-
-            destroy_bitmap(print);
-        }
-        posx+=incr;
-    }
-
-    return bmp;
-}*/

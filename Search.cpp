@@ -73,20 +73,7 @@ void search_func(string search,int search_size)
                       search_results::results[0].x,search_results::results[0].y,
                       BLACK,GREY,
                       "%s",search_results::results[0].text);
-
     }
-
-
-
-    /*for (int i=0; i<strlen(modifiers); i++)
-    {
-        if (equals((char *) search.c_str(),modifiers[i],strlen(modifiers[i])))*/
-
-
-
-
-
-
 
     for (int i=0; i<NUM_ELEMENTS; i++)
     {

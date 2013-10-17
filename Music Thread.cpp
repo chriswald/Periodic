@@ -14,23 +14,18 @@ void *Music_Thread(void *data)
 
     clear_bitmap(vol_bar_temp);
 
-
-
     bool volume_visable=false;
     bool add_music=false;
     int  curz=mouse_z;
     int  num_ticks=0;
     int  volume=125;
 
-
     if (errors.get_num_all()>0)
     {
         errors.disp_all_errors(EXIT_TRUE);
     }
 
-
     while (!ssdone){}
-
 
     while (!done)
     {
