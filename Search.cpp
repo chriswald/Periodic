@@ -1,14 +1,16 @@
 #include "equals.cpp"
 #include "About Periodic.cpp"
+#include <string>
+using std::string;
 
 void search_func(string search,int search_size)
 {
-    char game_string[]="al_game::init()";
-    char about_string[]="al_about::init()";
-    char exit_string[]="al_prgm::exit()";
-    char play_game[]="Play Game...";
-    char about_periodic[]="About Periodic...";
-    char exit_prgm[]="Exit Periodic...";
+    string game_string    = "al_game::init()";
+    string about_string   = "al_about::init()";
+    string exit_string    ="al_prgm::exit()";
+    string play_game      ="Play Game...";
+    string about_periodic = "About Periodic...";
+    string exit_prgm      = "Exit Periodic...";
 
     BITMAP *circle=load_bitmap("bitmaps/circle.bmp",NULL);
 
@@ -22,7 +24,7 @@ void search_func(string search,int search_size)
 
 
     //start the game
-    if (equals((char *) search.c_str(),game_string,strlen(game_string)))
+    if (search == game_string)
     {
         for (int i=0; i<50; i++)
             search_results::results[0].text[i]='\0';
@@ -35,7 +37,7 @@ void search_func(string search,int search_size)
 
 
     //Show some about info
-    if (equals((char *) search.c_str(),about_string,strlen(about_string)))
+    if (search == about_string)
     {
         for (int i=0; i<50; i++)
             search_results::results[0].text[i]='\0';
@@ -47,7 +49,7 @@ void search_func(string search,int search_size)
     }
 
     //Exit
-    if (equals((char *) search.c_str(),exit_string,strlen(exit_string)))
+    if (search == exit_string)
     {
         for (int i=0; i<50; i++)
             search_results::results[0].text[i]='\0';
