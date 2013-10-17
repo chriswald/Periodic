@@ -1,0 +1,829 @@
+# depslib dependency file v1.0
+1244219411 source:e:\periodic\main.cpp
+	"Allegro Header.h"
+	"Element File.h"
+	"Game.cpp"
+
+1243604769 e:\periodic\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1238683002 e:\periodic\element file.h
+
+1254847770 source:k:\periodic\main.cpp
+	<Allegro Header.h>
+	"Globals.h"
+	"Element.cpp"
+	"Element File.h"
+	"Game.cpp"
+	"Music Thread.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1243604768 k:\periodic\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1251470492 k:\periodic\element file.h
+
+1242677210 source:k:\periodic\runner.cpp
+	<windows.h>
+
+1243891230 source:k:\periodic\resource.rc
+	"resource.h"
+
+1243891604 k:\periodic\resource.h
+
+1243891230 source:e:\periodic\resource.rc
+	"resource.h"
+
+1243891604 e:\periodic\resource.h
+
+1243027176 k:\periodic\class worm.h
+
+1243349438 k:\periodic\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1242678376 source:k:\periodic\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1242685620 k:\periodic\runner.cpp
+	<windows.h>
+
+1242682692 k:\periodic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"main.h"
+
+1242681442 k:\periodic\main.h
+
+1242685620 e:\periodic\runner.cpp
+	<windows.h>
+
+1243349438 e:\periodic\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243027176 e:\periodic\class worm.h
+
+1242751296 source:e:\periodic\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243040976 e:\periodic\allegro headers\allegro header base.h
+	<allegro.h>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<math.h>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	"Allegro Header Defines.h"
+	"Allegro Header Macros.h"
+	"Allegro Header Structures.h"
+	"Allegro Header Classes.h"
+	"Allegro Header Globals.h"
+	"Allegro Header Function Definitions.h"
+	"Allegro Header Functions.h"
+
+1242996764 e:\periodic\allegro headers\allegro header defines.h
+	"Allegro Header Base.h"
+
+1242996766 e:\periodic\allegro headers\allegro header macros.h
+	"Allegro Header Base.h"
+
+1243300278 e:\periodic\allegro headers\allegro header classes.h
+	"Allegro Header Base.h"
+	"Allegro Header Function Definitions.h"
+
+1243039598 e:\periodic\allegro headers\allegro header globals.h
+	"Allegro Header Base.h"
+
+1242997036 e:\periodic\allegro headers\allegro header func defs.h
+	"Allegro Header Base.h"
+	"Allegro Header Classes.h"
+
+1242996764 e:\periodic\allegro headers\allegro header structs.h
+	"Allegro Header Base.h"
+
+1243039968 e:\periodic\allegro headers\allegro header functions.h
+	"Allegro Header Base.h"
+	"Allegro Header Classes.h"
+
+1243039944 e:\periodic\allegro headers\allegro header function definitions.h
+
+1243562579 k:\periodic\allegro headers\allegro header base.h
+	<allegro.h>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<math.h>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	"Allegro Header Defines.h"
+	"Allegro Header Macros.h"
+	"Allegro Header Structures.h"
+	"Allegro Header Classes.h"
+	"Allegro Header Globals.h"
+	"Allegro Header Function Definitions.h"
+	"Allegro Header Functions.h"
+	"Allegro Header Windows.h"
+
+1242996764 k:\periodic\allegro headers\allegro header defines.h
+	"Allegro Header Base.h"
+
+1242996766 k:\periodic\allegro headers\allegro header macros.h
+	"Allegro Header Base.h"
+
+1242996764 k:\periodic\allegro headers\allegro header structs.h
+	"Allegro Header Base.h"
+
+1243300278 k:\periodic\allegro headers\allegro header classes.h
+	"Allegro Header Base.h"
+	"Allegro Header Function Definitions.h"
+
+1243039944 k:\periodic\allegro headers\allegro header function definitions.h
+
+1243039598 k:\periodic\allegro headers\allegro header globals.h
+	"Allegro Header Base.h"
+
+1243039968 k:\periodic\allegro headers\allegro header functions.h
+	"Allegro Header Base.h"
+	"Allegro Header Classes.h"
+
+1242996764 k:\periodic\allegro headers\allegro header structures.h
+	"Allegro Header Base.h"
+
+1243301268 source:k:\periodic\enum.cpp
+
+1243301268 source:e:\periodic\enum.cpp
+
+1242996764 e:\periodic\allegro headers\allegro header structures.h
+	"Allegro Header Base.h"
+
+1243562487 k:\periodic\allegro headers\allegro header windows.h
+	<windows.h>
+
+1243604740 e:\periodic\allegro headers\al_h base.h
+	<allegro.h>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<math.h>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	"Al_H Defines.h"
+	"Al_H Macros.h"
+	"Al_H Structures.h"
+	"Al_H Classes.h"
+	"Al_H Globals.h"
+	"Al_H Function Definitions.h"
+	"Al_H Functions.h"
+	"Al_H Windows.h"
+
+1244059198 e:\periodic\allegro headers\al_h defines.h
+	"Al_H Base.h"
+
+1243604740 e:\periodic\allegro headers\al_h macros.h
+	"Al_H Base.h"
+
+1243604740 e:\periodic\allegro headers\al_h structures.h
+	"Al_H Base.h"
+
+1243604740 e:\periodic\allegro headers\al_h classes.h
+	"Al_H Base.h"
+	"Al_H Function Definitions.h"
+
+1243604277 e:\periodic\allegro headers\al_h function definitions.h
+
+1243604741 e:\periodic\allegro headers\al_h globals.h
+	"Al_H Base.h"
+
+1244227545 e:\periodic\allegro headers\al_h functions.h
+	"Al_H Base.h"
+	"Al_H Classes.h"
+
+1243604351 e:\periodic\allegro headers\al_h windows.h
+	"Allegro Header Windows/Al_H Windows Base.h"
+
+1243604915 e:\periodic\allegro headers\allegro header windows\al_h windows base.h
+	<windows.h>
+	"Al_H Windows Function Definitions.h"
+	"Al_H Windows Functions.h"
+
+1243604231 e:\periodic\allegro headers\allegro header windows\al_h windows function definitions.h
+
+1243604240 e:\periodic\allegro headers\allegro header windows\al_h windows functions.h
+
+1245334238 k:\periodic\allegro headers\al_h base.h
+	<allegro.h>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<math.h>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	"Al_H Defines.h"
+	"Al_H Macros.h"
+	"Al_H Structures.h"
+	"Al_H Classes.h"
+	"Al_H Globals.h"
+	"Al_H Internals.h"
+	"Al_H Function Definitions.h"
+	"Al_H Functions.h"
+	"Al_H Music.h"
+	"Al_H Windows.h"
+
+1244059198 k:\periodic\allegro headers\al_h defines.h
+	"Al_H Base.h"
+
+1245200598 k:\periodic\allegro headers\al_h macros.h
+	"Al_H Base.h"
+
+1243604740 k:\periodic\allegro headers\al_h structures.h
+	"Al_H Base.h"
+
+1245635326 k:\periodic\allegro headers\al_h classes.h
+	"Al_H Base.h"
+	"Al_H Function Definitions.h"
+
+1245634540 k:\periodic\allegro headers\al_h function definitions.h
+
+1245248502 k:\periodic\allegro headers\al_h globals.h
+	"Al_H Base.h"
+
+1245635270 k:\periodic\allegro headers\al_h functions.h
+	"Al_H Base.h"
+	"Al_H Classes.h"
+
+1243604350 k:\periodic\allegro headers\al_h windows.h
+	"Allegro Header Windows/Al_H Windows Base.h"
+
+1243604914 k:\periodic\allegro headers\allegro header windows\al_h windows base.h
+	<windows.h>
+	"Al_H Windows Function Definitions.h"
+	"Al_H Windows Functions.h"
+
+1243604230 k:\periodic\allegro headers\allegro header windows\al_h windows function definitions.h
+
+1243604240 k:\periodic\allegro headers\allegro header windows\al_h windows functions.h
+
+1244594375 k:\periodic\allegro headers\al_h graphing calc.h
+
+1243891230 source:j:\periodic\resource.rc
+	"resource.h"
+
+1243891604 j:\periodic\resource.h
+
+1246294816 source:j:\periodic\main.cpp
+	<Allegro Header.h>
+	"Element File.h"
+	"Game.cpp"
+
+1243604768 j:\periodic\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1245334238 j:\periodic\allegro headers\al_h base.h
+	<allegro.h>
+	<cctype>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iostream>
+	<math.h>
+	<pthread.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<string>
+	<vector>
+	"Al_H Defines.h"
+	"Al_H Macros.h"
+	"Al_H Structures.h"
+	"Al_H Classes.h"
+	"Al_H Globals.h"
+	"Al_H Internals.h"
+	"Al_H Function Definitions.h"
+	"Al_H Functions.h"
+	"Al_H Music.h"
+	"Al_H Windows.h"
+
+1244059198 j:\periodic\allegro headers\al_h defines.h
+	"Al_H Base.h"
+
+1245200598 j:\periodic\allegro headers\al_h macros.h
+	"Al_H Base.h"
+
+1243604740 j:\periodic\allegro headers\al_h structures.h
+	"Al_H Base.h"
+
+1245635326 j:\periodic\allegro headers\al_h classes.h
+	"Al_H Base.h"
+	"Al_H Function Definitions.h"
+
+1245634540 j:\periodic\allegro headers\al_h function definitions.h
+
+1245248502 j:\periodic\allegro headers\al_h globals.h
+	"Al_H Base.h"
+
+1245635270 j:\periodic\allegro headers\al_h functions.h
+	"Al_H Base.h"
+	"Al_H Classes.h"
+
+1244594406 j:\periodic\allegro headers\al_h graphing calc.h
+
+1243604350 j:\periodic\allegro headers\al_h windows.h
+	"Allegro Header Windows/Al_H Windows Base.h"
+
+1243604914 j:\periodic\allegro headers\allegro header windows\al_h windows base.h
+	<windows.h>
+	"Al_H Windows Function Definitions.h"
+	"Al_H Windows Functions.h"
+
+1243604230 j:\periodic\allegro headers\allegro header windows\al_h windows function definitions.h
+
+1243604240 j:\periodic\allegro headers\allegro header windows\al_h windows functions.h
+
+1238683002 j:\periodic\element file.h
+
+1243349438 j:\periodic\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243027176 j:\periodic\class worm.h
+
+1244922484 j:\periodic\allegro headers\al_h music.h
+	<almp3.h>
+
+1245334238 j:\periodic\allegro headers\al_h internals.h
+
+1245334238 k:\periodic\allegro headers\al_h internals.h
+
+1244922484 k:\periodic\allegro headers\al_h music.h
+	<almp3.h>
+
+1248893630 source:k:\periodic\element.cpp
+	<allegro.h>
+
+1251486456 k:\periodic\element.cpp
+	<Allegro Header.h>
+	"Print Functions.cpp"
+
+1255482174 k:\periodic\print functions.cpp
+	<Allegro Header.h>
+
+1251474164 k:\periodic\search.cpp
+	<Allegro Header.h>
+	"Equals.cpp"
+	"About Periodic.cpp"
+
+1248990320 k:\periodic\over element.cpp
+	<Allegro Header.h>
+
+1251473496 k:\periodic\thread.cpp
+
+1251392186 k:\periodic\timers.cpp
+	<Allegro Header.h>
+
+1251392024 k:\periodic\music thread.cpp
+	<Allegro Header.h>
+
+1249670110 k:\periodic\equals.cpp
+
+1251332920 k:\periodic\about periodic.cpp
+	<Allegro Header.h>
+
+1251383940 k:\periodic\hiden functions.cpp
+	<Allegro Header.h>
+
+1251485908 k:\periodic\globals.h
+
+1243891230 source:d:\periodic\resource.rc
+	"resource.h"
+
+1243891604 d:\periodic\resource.h
+
+1251486332 source:d:\periodic\main.cpp
+	<Allegro Header.h>
+	"Globals.h"
+	"Element.cpp"
+	"Element File.h"
+	"Game.cpp"
+	"Music Thread.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1251485908 d:\periodic\globals.h
+
+1251486456 d:\periodic\element.cpp
+	<Allegro Header.h>
+	"Print Functions.cpp"
+
+1251485426 d:\periodic\print functions.cpp
+	<Allegro Header.h>
+
+1251470492 d:\periodic\element file.h
+
+1243349438 d:\periodic\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243604768 d:\periodic\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1243027176 d:\periodic\class worm.h
+
+1251392024 d:\periodic\music thread.cpp
+	<Allegro Header.h>
+
+1248990320 d:\periodic\over element.cpp
+	<Allegro Header.h>
+
+1251474164 d:\periodic\search.cpp
+	<Allegro Header.h>
+	"Equals.cpp"
+	"About Periodic.cpp"
+
+1249670110 d:\periodic\equals.cpp
+
+1251332920 d:\periodic\about periodic.cpp
+	<Allegro Header.h>
+
+1251473496 d:\periodic\thread.cpp
+
+1251392186 d:\periodic\timers.cpp
+	<Allegro Header.h>
+
+1243891230 source:w:\periodic\resource.rc
+	"resource.h"
+
+1243891604 w:\periodic\resource.h
+
+1243833630 source:e:\periodic (stable)\resource.rc
+	"resource.h"
+
+1243837604 e:\periodic (stable)\resource.h
+
+1284644284 source:e:\periodic (stable)\main.cpp
+	<Allegro Header.h>
+	<semaphore.h>
+	"Globals.h"
+	"Element.cpp"
+	"Game.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1284731748 e:\periodic (stable)\globals.h
+
+1284243072 e:\periodic (stable)\element.cpp
+	<Allegro Header.h>
+	"Print Function.cpp"
+
+1284051156 e:\periodic (stable)\print functions.cpp
+	<Allegro Header.h>
+
+1263608274 e:\periodic (stable)\element file.h
+
+1265347950 e:\periodic (stable)\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243550768 e:\periodic (stable)\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1242973176 e:\periodic (stable)\class worm.h
+
+1284243026 e:\periodic (stable)\over element.cpp
+	<Allegro Header.h>
+
+1285249984 e:\periodic (stable)\search.cpp
+	"equals.cpp"
+	"About Periodic.cpp"
+
+1249616110 e:\periodic (stable)\equals.cpp
+
+1251278920 e:\periodic (stable)\about periodic.cpp
+	<Allegro Header.h>
+
+1284731750 e:\periodic (stable)\thread.cpp
+
+1284080566 e:\periodic (stable)\timers.cpp
+	<Allegro Header.h>
+
+1243891230 source:w:\periodic (stable)\resource.rc
+	"resource.h"
+
+1243891604 w:\periodic (stable)\resource.h
+
+1263609754 source:w:\periodic (stable)\main.cpp
+	<Allegro Header.h>
+	"Globals.h"
+	"Element.cpp"
+	"Element File.h"
+	"Game.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1263350006 w:\periodic (stable)\globals.h
+
+1263318238 w:\periodic (stable)\element.cpp
+	<Allegro Header.h>
+	"Print Functions.cpp"
+
+1263318406 w:\periodic (stable)\print functions.cpp
+	<Allegro Header.h>
+
+1263608274 w:\periodic (stable)\element file.h
+
+1243349438 w:\periodic (stable)\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243604768 w:\periodic (stable)\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1243027176 w:\periodic (stable)\class worm.h
+
+1248990320 w:\periodic (stable)\over element.cpp
+	<Allegro Header.h>
+
+1263610550 w:\periodic (stable)\search.cpp
+	<Allegro Header.h>
+	"Equals.cpp"
+	"About Periodic.cpp"
+
+1249670110 w:\periodic (stable)\equals.cpp
+
+1251332920 w:\periodic (stable)\about periodic.cpp
+	<Allegro Header.h>
+
+1263609202 w:\periodic (stable)\thread.cpp
+
+1263349890 w:\periodic (stable)\timers.cpp
+	<Allegro Header.h>
+
+1243891230 source:d:\periodic (stable)\resource.rc
+	"resource.h"
+
+1243891604 d:\periodic (stable)\resource.h
+
+1263609754 source:d:\periodic (stable)\main.cpp
+	<Allegro Header.h>
+	"Globals.h"
+	"Element.cpp"
+	"Element File.h"
+	"Game.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1263350006 d:\periodic (stable)\globals.h
+
+1263318238 d:\periodic (stable)\element.cpp
+	<Allegro Header.h>
+	"Print Functions.cpp"
+
+1263318406 d:\periodic (stable)\print functions.cpp
+	<Allegro Header.h>
+
+1263608274 d:\periodic (stable)\element file.h
+
+1243349438 d:\periodic (stable)\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243604768 d:\periodic (stable)\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1243027176 d:\periodic (stable)\class worm.h
+
+1248990320 d:\periodic (stable)\over element.cpp
+	<Allegro Header.h>
+
+1263610550 d:\periodic (stable)\search.cpp
+	<Allegro Header.h>
+	"Equals.cpp"
+	"About Periodic.cpp"
+
+1249670110 d:\periodic (stable)\equals.cpp
+
+1251332920 d:\periodic (stable)\about periodic.cpp
+	<Allegro Header.h>
+
+1265387646 d:\periodic (stable)\thread.cpp
+
+1263349890 d:\periodic (stable)\timers.cpp
+	<Allegro Header.h>
+
+1243891230 source:l:\periodic (stable)\resource.rc
+	"resource.h"
+
+1243891604 l:\periodic (stable)\resource.h
+
+1266967300 source:l:\periodic (stable)\main.cpp
+	<Allegro Header.h>
+	<semaphore.h>
+	"Globals.h"
+	"Element.cpp"
+	"Game.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1265408970 l:\periodic (stable)\globals.h
+
+1266967302 l:\periodic (stable)\element.cpp
+	<Allegro Header.h>
+	"Print Functions.cpp"
+
+1266965124 l:\periodic (stable)\print functions.cpp
+	<Allegro Header.h>
+
+1263608274 l:\periodic (stable)\element file.h
+
+1265401950 l:\periodic (stable)\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243604768 l:\periodic (stable)\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1243027176 l:\periodic (stable)\class worm.h
+
+1248990320 l:\periodic (stable)\over element.cpp
+	<Allegro Header.h>
+
+1267141578 l:\periodic (stable)\search.cpp
+	"equals.cpp"
+	"About Periodic.cpp"
+
+1249670110 l:\periodic (stable)\equals.cpp
+
+1251332920 l:\periodic (stable)\about periodic.cpp
+	<Allegro Header.h>
+
+1267141570 l:\periodic (stable)\thread.cpp
+
+1267140964 l:\periodic (stable)\timers.cpp
+	<Allegro Header.h>
+
+1266963310 l:\periodic (stable)\element new.cpp
+	<Allegro Header.h>
+	"Print Functions New.cpp"
+
+1266965124 l:\periodic (stable)\print functions new.cpp
+	<Allegro Header.h>
+
+1266967112 l:\periodic (stable)\search new.cpp
+	"equals.cpp"
+	"About Periodic.cpp"
+
+1243869630 source:k:\periodic (stable)\resource.rc
+	"resource.h"
+
+1243891604 k:\periodic (stable)\resource.h
+
+1269955376 source:k:\periodic (stable)\main.cpp
+	<Allegro Header.h>
+	<semaphore.h>
+	"Globals.h"
+	"Element.cpp"
+	"Game.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1269980378 k:\periodic (stable)\globals.h
+
+1266967302 k:\periodic (stable)\element.cpp
+	<Allegro Header.h>
+	"Print Functions.cpp"
+
+1266965124 k:\periodic (stable)\print functions.cpp
+	<Allegro Header.h>
+
+1265401950 k:\periodic (stable)\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243604768 k:\periodic (stable)\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1243027176 k:\periodic (stable)\class worm.h
+
+1248990320 k:\periodic (stable)\over element.cpp
+	<Allegro Header.h>
+
+1269981290 k:\periodic (stable)\search.cpp
+	"equals.cpp"
+	"About Periodic.cpp"
+
+1249670110 k:\periodic (stable)\equals.cpp
+
+1251332920 k:\periodic (stable)\about periodic.cpp
+	<Allegro Header.h>
+
+1269981378 k:\periodic (stable)\thread.cpp
+
+1267140964 k:\periodic (stable)\timers.cpp
+	<Allegro Header.h>
+
+1243833630 source:g:\periodic (stable)\resource.rc
+	"resource.h"
+
+1243837604 g:\periodic (stable)\resource.h
+
+1284644284 source:g:\periodic (stable)\main.cpp
+	<Allegro Header.h>
+	<semaphore.h>
+	"Globals.h"
+	"Element.cpp"
+	"Game.cpp"
+	"Over Element.cpp"
+	"Search.cpp"
+	"Thread.cpp"
+	"Timers.cpp"
+
+1285440408 g:\periodic (stable)\globals.h
+
+1284243072 g:\periodic (stable)\element.cpp
+	<Allegro Header.h>
+	"Print Function.cpp"
+
+1284079788 g:\periodic (stable)\print functions.cpp
+	<Allegro Header.h>
+
+1265347950 g:\periodic (stable)\game.cpp
+	"Allegro Header.h"
+	"Class Worm.h"
+
+1243550768 g:\periodic (stable)\allegro header.h
+	"Allegro Headers/Al_H Base.h"
+
+1242973176 g:\periodic (stable)\class worm.h
+
+1284243026 g:\periodic (stable)\over element.cpp
+	<Allegro Header.h>
+
+1285249984 g:\periodic (stable)\search.cpp
+	"equals.cpp"
+	"About Periodic.cpp"
+
+1249616110 g:\periodic (stable)\equals.cpp
+
+1251278920 g:\periodic (stable)\about periodic.cpp
+	<Allegro Header.h>
+
+1284731750 g:\periodic (stable)\thread.cpp
+
+1284080566 g:\periodic (stable)\timers.cpp
+	<Allegro Header.h>
+
+1284243230 e:\periodic (stable)\print function.cpp
+	<Allegro Header.h>
+
+1284243230 g:\periodic (stable)\print function.cpp
+	<Allegro Header.h>
+

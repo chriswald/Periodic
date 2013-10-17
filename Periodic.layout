@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Globals.h" open="1" top="0" tabpos="2">
+		<Cursor position="300" topLine="0" />
+	</File>
+	<File name="Main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1559" topLine="18" />
+	</File>
+	<File name="Resource.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

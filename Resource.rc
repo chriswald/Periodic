@@ -1,0 +1,8 @@
+#ifndef RESOURCE_RC
+#define RESOURCE_RC
+
+#include "resource.h"
+
+IDI_MYICON1 ICON "Bitmaps/Icons/Periodic.ico"
+
+#endif  //RESOURCE_RC
